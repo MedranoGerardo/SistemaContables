@@ -24,3 +24,9 @@ Hecha en PostgreSQL en el programa PgAdmin 4.
 *Nota:* Importar base de datos para poder ejecutar el programa ya que está a nivel de localhost.
 
 *Nota:* Cambiar el password de la BD por la contraseña que tiene su PgAdmin 4 para conexión de la misma.
+
+
+
+
+https://drive.google.com/file/d/1732rqTmMThDrena2Uy4WS3PJ9zKITjm2/view?usp=sharing
+
