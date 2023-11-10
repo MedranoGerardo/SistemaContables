@@ -25,3 +25,4 @@ Hecha en PostgreSQL en el programa PgAdmin 4.
 
 *Nota:* Cambiar el password de la BD por la contraseña que tiene su PgAdmin 4 para conexión de la misma.
 
+### Se debe descomprimir el archivo avanceSistemasContables para poder ejecutarlo
